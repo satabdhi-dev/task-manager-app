@@ -1,5 +1,3 @@
-# task-manager-app
-A full-stack task management app using React, Node.js, and MongoDB.
 # Task Management Web App
 
 A full-stack task management application built with **React.js, Node.js, Express.js, and MongoDB**.  
